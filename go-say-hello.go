@@ -1,5 +1,5 @@
 package gosayhello
 
 func SayHello (name string)string {
-	return "hello" + name
+	return "hello " + name + " are you okay?"
 }
